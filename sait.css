@@ -1,0 +1,52 @@
+body{
+     background-color: blanchedalmond;
+}
+
+
+
+#container{
+	display: inline-block;
+	flex-direction: row;
+
+}
+
+
+
+
+
+
+
+
+
+.content{
+     margin: 15px;
+     border: solid;
+     width: 1049px;
+     border-radius: 20px;
+     height: 900px;
+     background-color: coral;
+     border-width: 5px;
+     display: inline-block;
+     margin-top: 150px;
+
+     
+
+     
+
+
+}
+.sidebar{
+	margin: 15px;
+     border: solid;
+     width: 300px;
+     border-radius: 20px;
+     height: 900px;
+     background-color: bisque;
+     border-width: 5px;
+	display: inline-block;
+	margin-left: 5px;
+
+
+} 
+	
+
